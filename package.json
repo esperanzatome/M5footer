@@ -1,0 +1,25 @@
+{
+  "name": "m5footer",
+  "version": "0.1.0",
+  "description": "Este módulo permite generar un pie de página dinámico para aplicaciones js con un año y un nombre actualizados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esperanzatome/M5footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "'Esperanza' <espetomeiglesias@gmail.com> (http://www.esperanzat.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esperanzatome/M5footer/issues"
+  },
+  "homepage": "https://github.com/esperanzatome/M5footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
