@@ -12,4 +12,4 @@ Añadir a un proyecto js con el siguiente código:
 import(footer)from 'M5footer';
 
 footer('Some name');
-```"# M5footer" 
+```
